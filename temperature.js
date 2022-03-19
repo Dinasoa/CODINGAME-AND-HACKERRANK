@@ -27,4 +27,4 @@ for (let i = 0; i < inputs.length ; i++) { //Cycle through the array
 return closest 
 
 }
-(closestToZero(n,inputs))
+console.log(closestToZero(n,inputs))
